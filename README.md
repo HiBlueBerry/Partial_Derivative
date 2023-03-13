@@ -1,6 +1,6 @@
 # Partial_Derivative
 Find partial derivative
-一个简单的求偏导数的程序，在EasyC++.cpp中调用相关函数和类。
+#一个简单的求偏导数的程序，在EasyC++.cpp中调用相关函数和类。
 请使用ForwardOperationNode来创建基本的运算变量。
 程序将数值量分为自变量，因变量和常量三种，其中任意初始化的ForwardOperationNode对象都是自变量，自变量可以重复赋值。
 一旦对一个自变量进行了表达式赋值就将其标记为因变量，因变量一旦确定就不可以再更改其表达式。
